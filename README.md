@@ -44,17 +44,6 @@ directory.
 
 ------------------------------------------------------------------------
 
-## Project Structure
-
-project/ │ ├── ver2.php \# main application └── notes/ \# encrypted
-notes storage
-
-Each note is saved as:
-
-notes/1.enc notes/2.enc notes/3.enc
-
-------------------------------------------------------------------------
-
 ## Installation
 
 1.  Download the repository
