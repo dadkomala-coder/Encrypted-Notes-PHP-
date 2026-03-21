@@ -48,7 +48,7 @@ directory.
 
 1.  Download the repository
 
-git clone https://github.com/dadkomala-coder/encrypted-notes
+git clone [https://github.com/dadkomala-coder/encrypted-notes](https://github.com/dadkomala-coder/Encrypted-Notes-PHP-)
 
 or download the ZIP archive.
 
